@@ -1,0 +1,11 @@
+#Fri Jan 07 14:59:09 CET 2022
+duration=0
+output={z\=3.000715003051446"}
+code=Jupyter
+output.z=3.000715003051446"
+input.No\ name=No value
+start=14\:59\:06
+end=
+state=done
+calc=localhost\:40855
+info=Results parsed\: {path\=, 1\=1.0, z\=3.000715003051446"}

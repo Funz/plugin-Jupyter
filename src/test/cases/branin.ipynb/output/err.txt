@@ -1,0 +1,2 @@
+[NbConvertApp] Converting notebook branin.ipynb to notebook
+[NbConvertApp] Writing 1889 bytes to branin.ipynb
