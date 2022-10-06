@@ -7,4 +7,4 @@ commentLineChar=#
 
 outputlist=`grep("(.*)ipynb","print\\(\'(.*)=")>>before("=")>>after("'")`
 
-output.???.get=lines("(.*)ipynb")>>filter("^(\\s+).???=(.*)")>>after("=")>>replace("\\n","")
+output.???.get=lines("(.*)ipynb")>>filter("^(\\s+).???=(.*)")>>after("=")>>before("\\"")>>replace("\\n","")
